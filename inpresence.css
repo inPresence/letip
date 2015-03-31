@@ -1,0 +1,18 @@
+#main-menu-links li {
+width: 19%;
+}
+
+#main-menu-links a {
+		width: 100%;
+		text-align: center;
+		padding: 0px;
+		border-radius: 0px;
+		height: 2.5em;
+		line-height: 2.5em;
+		font-size: 1.5em;
+		
+	}
+	
+	.view-member-list-users- tr td {
+		vertical-align: top;
+		}
